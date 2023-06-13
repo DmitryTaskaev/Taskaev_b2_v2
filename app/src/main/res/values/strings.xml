@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Taskaev_b2_v2</string>
+    <string name="mainText">Геометрический калькулятор</string>
+    <string name="loginInputText">Введите логин</string>
+    <string name="passInputText">Введите пароль</string>
+    <string name="textRegistration">Регистрация</string>
+    <string name="choiseText">Выбор фигуры</string>
+    <string name="choiseTextTwo">Выберите фигуру</string>
+    <string name="textInputDate">Введите данные для расчета</string>
+    <string name="calc">Выполнить расчет</string>
+    <string name="res">Результат вычисления</string>
+</resources>
